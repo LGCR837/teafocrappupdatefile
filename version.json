@@ -1,4 +1,4 @@
 ﻿{
-    "version":  "v15",
-    "changelog":  "增加了自动更新的功能"
+    "version":  "v16",
+    "changelog":  "修复自动更新的一些Bug"
 }
